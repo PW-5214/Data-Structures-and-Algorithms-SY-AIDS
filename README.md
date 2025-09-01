@@ -9,16 +9,16 @@ Each program (`DS1.cpp` to `DS10.cpp`) demonstrates a core DSA topic with simple
 
 ```
 Data-Structures-and-Algorithms-SY-AIDS/
-│── DS1.cpp   # Arrays – basic operations
-│── DS2.cpp   # Stack implementation
-│── DS3.cpp   # Queue implementation
+│── DS1.cpp   # Stack implementation
+│── DS2.cpp   # Backtracking(Knight Tour)
+│── DS3.cpp   # Linked List
 │── DS4.cpp   # Linked List operations
 │── DS5.cpp   # Binary Search Tree (BST)
-│── DS6.cpp   # Graph representation
-│── DS7.cpp   # Sorting algorithms
-│── DS8.cpp   # Searching algorithms
-│── DS9.cpp   # Hashing techniques
-│── DS10.cpp  # Miscellaneous / Advanced DSA
+│── DS6.cpp   # BST
+│── DS7.cpp   # wueue and Trees
+│── DS8.cpp   # Graphs
+│── DS9.cpp   # Heaps
+│── DS10.cpp  # TSP or Graph problems
 │── README.md # Project documentation
 ```
 
